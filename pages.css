@@ -1,0 +1,109 @@
+.affix {
+    top:10px;
+    display: block;
+}
+
+.affix {
+    top:10px;
+    display: block;
+}
+
+.menu {
+    font-size: 22px;
+}
+
+body, html {
+    height: 100%;
+    margin-top: -10px;
+}
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    background-size: 3200px 2400px;
+    background-attachment: bottom;
+    /* background-attachment: 50% 10%; */
+    /* display: -ms-flexbox; */
+    /* display: -webkit-box; */
+    /* display: flex; */
+}
+
+#well h1 {
+    /* TODO: Fix text-shadow */
+    text-shadow: 2px 2px 4px #000;
+}
+
+#round {
+    border-radius: 50%;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.center li {
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.experience {
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.brandt {
+    list-style-image: url('./phoneBullet.png');
+}
+
+.jimmyJohns {
+    list-style-image: url('./sandwichBullet.png');
+}
+
+.pool {
+    list-style-image: url('./lifeguardBullet.png');
+}
+
+.skills {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+#scale {
+    max-width: 20px;
+    margin-left: 30px;
+}
+
+.education {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.involvement {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.projects {
+    margin-top: 30px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}

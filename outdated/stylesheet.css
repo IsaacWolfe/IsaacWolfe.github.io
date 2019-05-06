@@ -1,0 +1,218 @@
+/* Global info gi*/
+body {
+    /* background-attachment: fixed; */
+    background-position: center bottom;
+    background-color: #eee;
+}
+
+div {
+	border-radius: 5px;
+    font-size:18px;
+}
+
+img {
+    border-radius: 50%;
+    border-width: 5px;
+    border-color: #000;
+    width: 98%;
+    margin: auto;
+}
+
+h1 {
+	margin-left: 15px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+    text-shadow: 2px 4px #ccc;
+}
+
+b {
+    font-size: 22px;
+}
+
+li {
+    margin-left: 10px;
+	list-style-type: square;
+    margin-bottom: 10px;
+    list-style-type: circle;
+}
+
+ul {
+    line-height: 20px;
+    margin: 10px;
+}
+
+button {
+    color: #fff;
+}
+
+a {
+    text-decoration: underline;
+    color: #000;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+a:visited {
+    color: #333;
+}
+
+/* .btn-group button { */
+    /* color: #fff; */
+    /* background-color: #aaa; */
+    /* border: 1px solid grey; */
+    /* border-radius: 10px; */
+    /* margin-top: 12px; */
+    /* margin-right: 20px; */
+    /* color: white; */
+    /* padding: 15px 40px; */
+    /* cursor: pointer; */
+    /* float: right; */
+/* } */
+
+/* .btn-group button:hover { */
+/*     background-color: #ddd; */
+/*     /1* font-weight: none; *1/ */
+/* } */
+
+/* Nav-bar style section nss*/
+/* TODO: Add animation to hide .left when scroll down and unhide nav-bar, fix image and padding */
+
+#header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ddd;
+}
+
+#header li {
+    float: left;
+    text-align: center;
+    list-style-type: none;
+    display: block;
+}
+
+.menuText {
+    margin-left: 60px;
+}
+
+#header li img {
+    width: 50px;
+}
+
+#header li a {
+    color: #000;
+    padding: 14px 16px;
+    text-decoration: underline;
+}
+
+#header li a:hover {
+    background-color: #bbb;
+}
+
+/* Left into section lis*/
+
+.left {
+    /* -ms-transform: scale(0.2, 0.2); */
+    /* -webkit-transform:scale(0.2, 0.2); */
+    /* transform: scale(0.2, 0.2); */
+	position: fixed;
+	float: left;
+	/* margin-top: 50px; */
+    margin-left: 1%;
+	width: 15%;
+    min-width: 200px;
+	height: 75%;
+	background-color: #ddd;
+	margin-bottom: 10px;
+    box-shadow: 0px 10px 6px -6px #777;
+}
+
+#about {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	color: #000;
+}
+
+#email {
+    color: #000;
+    text-decoration: none;
+}
+
+.intro {
+    margin-top: 20px;
+    width: 200px;
+    color: #000;
+    line-height: 25px;
+    font-family: 'UnifrakturCook';
+    font-size: 20px;
+}
+
+/* Right info section ris*/
+/* TODO: Add favicons to each work experience and anywhere else as needed */
+
+.right p {
+	margin-left: 20px;
+	margin-right: 5px;
+	margin-top: -10px;
+	color: #000000;
+}
+
+#experience {
+	position: relative;
+	float: left;
+	/* margin-top: 50px; */
+    margin-right: 1%;
+	width: 71%;
+    height: auto;
+	background-color: #999;
+    /* box-shadow: 5px 10px #ccc; */
+    background: linear-gradient( to right, #999, #ddd);
+    margin-left: 280px;
+}
+
+#skills {
+	position: relative;
+	float: left;
+    margin-right: 1%;
+	width: 71%;
+    height: auto;
+	background-color: #999;
+	margin-bottom: 30px;
+    margin-top: 30px;
+    /* box-shadow: 5px 10px #ccc; */
+    background: linear-gradient( to right, #999, #ddd);
+    margin-left: 280px;
+}
+
+#education, #involvement, #interests, #projects {
+	position: relative;
+	float: left;
+    margin-right: 1%;
+	width: 71%;
+    height: auto;
+	background-color: #999;
+	margin-bottom: 30px;
+    /* box-shadow: 5px 10px #ccc; */
+    background: linear-gradient( to right, #999, #ddd);
+    margin-left: 280px;
+}
+
+#projects a:link {
+    color: #000;
+    text-decoration: underline;
+}
+
+/* .invisible { */
+/*     transition: opacity 0.5s ease; */
+/*     opacity: 0.0; */
+/* } */
+
+/* .visible { */
+/*     transition: opacity 0.5s ease; */
+/*     opacity: 1.0; */
+/* } */
