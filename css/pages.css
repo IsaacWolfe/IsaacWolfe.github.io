@@ -30,8 +30,11 @@ body {
     /* display: flex; */
 }
 
-#well h1 {
-    /* TODO: Fix text-shadow */
+.well {
+	border-radius: 10px;
+}
+
+.well h1 {
     text-shadow: 2px 2px 4px #000;
 }
 
