@@ -44,7 +44,6 @@
 body, html {
     height: 100%;
     color: #fff;
-    /* color: #EAC67A; */
     text-shadow: 2px;
 }
 
@@ -59,7 +58,7 @@ body {
     -ms-flex-pack: center;
     -webkit-box-pack: center;
     justify-content: center;
-    background-size: 100% 100%;
+    background-size: 100% auto;
     /* background-position: 50% 90%; */
     /* background-attachment: fixed; */
 }
@@ -115,6 +114,7 @@ a:hover {
 
 .well {
     background-color: #597A92;
+	width: 150%;
 }
 
 /* @media only screen and (min-width: 600px) { */
