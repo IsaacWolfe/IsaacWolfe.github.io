@@ -29,28 +29,21 @@
                     </ul>
                 </div>
                 <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-                    <div class="well education">
-                        <h1>Education</h1>
-						<p><br>Graduated Florida State University</p>
-						<p>Bachelors of Arts (BA) Computer Programming and Application Development, Minor in Philosophy 2020</p>
-						<p>Bachelors of Science (BS) Information Technology with specialization in Development, and Networking and Security 2018</p>
-                    </div>
-
                     <div class="well experience">
                         <h1>Experience</h1>
-						<p><br><b>House Manager, Sigma Pi Fraternity at Florida State University</b> &nbsp&nbsp&nbsp&nbsp November 2018-November 2019</p>
+						<p><br><b>House Manager of Sigma Pi Fraternity at Florida State University</b> &nbsp&nbsp&nbsp&nbsp From November 2018-November 2019</p>
                         <ul class="circleList house">
 								<li>Installed and managed an enterprise fiber optic network using Ubiquiti hardware with 150+ clients covering two disjointed buildings over a 39,000 square foot area</li>
-								<br><li>Troubleshot on-site issues and remotely repaired equipment, security, optimization, and replacement</li>
+								<br><li>Troubleshot on site issues and remotely repaired equipment, security, optimization, and replacement</li>
 								<br><li>Worked with executive team for decision making and leadership of chapter as well as organizing and scheduling maintenance, improvements, and restocking of supplies</li>
 								<br><li>Managed a yearly budget of $31,000 for housing expenses and submitted weekly budget reports</li>
                         </ul>
-                        <p><br><b>Remote Support Technician, Brandt Information Services</b> &nbsp&nbsp&nbsp&nbsp May 2017-Febuary 2018</p>
+                        <p><br><b>Remote Support Technician for Brandt Information Services</b> &nbsp&nbsp&nbsp&nbsp From May 2017-Febuary 2018</p>
                         <ul class="circleList brandt">
 							<li>Created a Windows 10 and a Linux based kiosk system that included securing the device, writing boot scripts and documenting the process</li>
 							<br><li>Inventoried, cleaned, repaired, and shipped 250+ Dell Thin Clients and TSP 100 Cutter printers</li>
 							<br><li>Reformatted equipment and deployed correct images to the 250+ devices using Redo Backup</li>
-							<br><li>Troubleshot 100+ Windows 10 Thin Clients a day as well as TSP100 Cutter printers using TeamViewer</li>
+							<br><li>Dealt with trouble shooting and fixing 100+ Windows 10 Thin Clients a day as well as TSP100 Cutter printers over phone using Teamviewer</li>
                         </ul>
                         <!-- <p><br><b>Jimmy Johns</b> &nbsp&nbsp&nbsp&nbsp From Febuary 2016-May 2016</p> -->
                         <!-- <ul class="circleList jimmyJohns"> -->
@@ -226,46 +219,8 @@
                                     <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
                                 </td>
 							</tbody>
-                        </table>
-                        <table class="table table-striped">
-                            <thead>
-                                <tr>
-                                    <th>Technical Skill</th>
-                                    <th>Proficency</th>
-                                </tr>
-                            </thead>
                             <tbody>
-                                <td>Cybersecurity</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Networking</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Virtualization</td>
+                                <td>Git</td>
                                 <td>
                                     <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
                                     <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
@@ -278,112 +233,7 @@
                                     <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
                                     <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
                                 </td>
-                            </tbody>
-                            <tbody>
-                                <td>Databasing</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Enumeration</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Offensive Security</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Git<td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Web Design</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Windows Administration</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                </td>
-                            </tbody>
-                            <tbody>
-                                <td>Linux Administration</td>
-                                <td>
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/computerBulltet.png" alt="Laptop">
-                                    <img id="scale" src="./photos/circleBullet.png" alt="Blank circle">
-                                </td>
-                            </tbody>
+							</tbody>
                         </table>
                         <p><b><br>Databases:</b> MySQL Workbench, MS SQL Server, Oracle, MongoDB</p>
                         <p><b><br>Software:</b> R Studio, Android Studios, Virtual Box, Teamviewer, Redo Backup</p>
@@ -391,13 +241,32 @@
                         <p><b><br>Certifications:</b> Word 2012, Excel 2012, PowerPoint 2012, Microsoft Technology Associate Security, Microsoft Technology Associate Networking</p>
                     </div>
 
+                    <div class="well education">
+                        <h1>Education</h1>
+						<p><br>Graduated Florida State University 2020</p>
+						<p><b>Bachelors of Science in Information Technology</b> with specialization in Development, and Networking and Security</p>
+						<p><b>Bachelors of Arts in Computer Programming and Application Development</b></p>
+						<p><b>Minor in Philosophy</b></p>
+                    </div>
+
                     <div class="well involvement">
                         <h1>Involvement</h1>
                         <ul class="circleList">
-							<br><li>Attended <i>Cybersecurity Symposium of 2020</i> at Florida State University </li>
+                            <br><li>Volunteered at Juvenile Diabetes Research Foundation Tampa Chapter:</li>
+                            <ul class="circleList">
+                                <li>More than 100 hours of volunteering</li>
+                                <li>Setup spreadsheets on Excel and organized mailing lists</li>
+                                <li>Helped organize and run major yearly events</li>
+                            </ul>
+							<br><li>Attended Cybersecurity Symposium of 2020 at Florida State University </li>
 							<br><li>Member of Sigma Pi Fraternity of Florida State University, Eta Epsilon Chapter</li>
-                            <br><li>Lobbied in Washington D.C. for Juvenile Diabetes Research Foundation (JDRF) with Medicare and Medicaid</li>
-                            <br><li>Volunteered at JDRF creating and organizing mailing lists and helped organize major annual events</li>
+                            <!-- <ul class="circleList"> -->
+								<!-- <li>Serve a year on th Executive Board as Hous Managr</li> -->
+								<!-- <li>Worked with a yearly budget of $31,000 for housing improvements and maintence</li> -->
+								<!-- <li>Planned and installed network hardware such as PoE Switches and multiple access points to support 1 Gbps enterprise network over a 39,000 square foot area of two disjointed buildings</li> -->
+								<!-- <li>Network Administrator of 1 Gigabyte fiber fraternity network with up to 500 devices connected and a seperate guest network with a splashpage</li> -->
+                            <!-- </ul> -->
+                            <br><li>Lobbied in Washington D.C. for diabetic care with Medicare and Medicaid</li>
                         </ul>
                     </div>
 
