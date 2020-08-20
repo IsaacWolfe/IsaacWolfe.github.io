@@ -24,10 +24,6 @@ html {
 body {
     background-size: 6000px 4000px;
     background-attachment: bottom;
-    /* background-attachment: 50% 10%; */
-    /* display: -ms-flexbox; */
-    /* display: -webkit-box; */
-    /* display: flex; */
 }
 
 .well {
@@ -132,3 +128,7 @@ td {
  .well ul {
      color: #fff;
  }
+
+.language {
+		padding-left: 10%;
+}
